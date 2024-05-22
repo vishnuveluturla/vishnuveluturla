@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm vishnuveluturla</h1>
 <h3 align="center">Software Techie from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnuveluturla&label=Profile%20views&color=0e75b6&style=flat" alt="vishnuveluturla" /> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKSjFW5kRrkvu9i/giphy.gif" alt="software techie" width="300" height="200">
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishnuveluturla" alt="vishnuveluturla" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnuveluturla&label=Profile%20views&color=0e75b6&style=flat" alt="vishnuveluturla" /> </p>
 
 - 🔭 I’m currently working on **Software Developer Interns from different organizations.**
 
@@ -15,11 +17,12 @@
 
 - 📫 How to reach me **vishnu5c9@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TDE8n5huiOUYvu4VxLh5OR1mc7VJgJUh/view?usp=sharing](https://drive.google.com/file/d/1TDE8n5huiOUYvu4VxLh5OR1mc7VJgJUh/view?usp=sharing)
+- 📄 Know about my experiences [https://is.gd/jHYmuC](https://is.gd/jHYmuC)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vishnuveluturla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishnuveluturla/" height="30" width="40" /></a>
+<a href="https://instagram.com/vishnu_veluturla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishnu_veluturla" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
