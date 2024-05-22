@@ -2,7 +2,7 @@
 <h3 align="center">Software Techie from India</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKSjFW5kRrkvu9i/giphy.gif" alt="software techie" width="300" height="200">
+  <img src="https://github.com/vishnuveluturla/vishnuveluturla/blob/main/giphy.gif" alt="software techie" width="300" height="200">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnuveluturla&label=Profile%20views&color=0e75b6&style=flat" alt="vishnuveluturla" /> </p>
